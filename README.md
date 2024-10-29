@@ -26,7 +26,7 @@ Live demo - [MockInterviewerGPT](https://mock-interviewer-gpt.vercel.app/)
 - Secure access with social login or email/password authentication.
 - Generate AI-powered interview questions based on the provided interview details.
 - Converts user responses into text, enabling seamless interaction.
-- Provides AI-driven analysis and feedback based on user interview responses.
+- Provides AI-driven analysis and feedback based on users' interview responses.
 
 ## Technologies Used
 - Next.js
@@ -61,8 +61,8 @@ Live demo - [MockInterviewerGPT](https://mock-interviewer-gpt.vercel.app/)
     npm install
     ```
 
-4. Set up environment variables:
-   Create a .env file in the root directory as `.env.local` with the following environment variables:
+4. Set up the environment variables:
+   Create an .env file in the root directory as `.env.local` with the following environment variables:
 
     ```bash
     NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -116,7 +116,7 @@ We love contributions! Here's how you can help make the AI-powered FinanceGuru e
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE file](https://github.com/0xmetaschool/ai-mock-interview/blob/main/LICENSE) for details.
@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE file](https://
 
 - Google Gemini for providing the API
 - Clerk for authenticating the login process
-- Drizzle ORM for allowing to set the database and streamline the process
+- Drizzle ORM for enabling efficient database setup and streamlining processes.
 
 ## Contact
 
