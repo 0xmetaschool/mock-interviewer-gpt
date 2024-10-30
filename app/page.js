@@ -111,7 +111,7 @@ export default function Home() {
       {/* Start your journey Section */}
       <Box bg="gray.50" color="black" py={20}>
         <Container maxW="4xl" textAlign="center">
-          <Heading as="h2" size="xl" mb={6} fontWeight="bold"> Start Your Language Learning Journey Today </Heading>
+          <Heading as="h2" size="xl" mb={6} fontWeight="bold"> Start Your Interview Preparation Journey Today </Heading>
           <Text fontSize="xl" mb={8} color="gray.600"> Join thousands of satisfied learners and unlock your potential with our AI-powered language app. </Text>
           <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
             <a href="/dashboard" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-white rounded-lg bg-black hover:bg-gray-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
