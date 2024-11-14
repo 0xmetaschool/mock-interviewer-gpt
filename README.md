@@ -59,10 +59,7 @@ Built with Next.js and leveraging Gemini AI, this open-source template is perfec
     ```bash
     npm run dev
     ```
-
-6. Run the development server:
-
-Open the browser and go to `http://localhost:3000`. Ensure that everything is loading and the live preview works as expected.
+    Open the browser and go to `http://localhost:3000`.
 
 ## Screenshots
 
