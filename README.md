@@ -68,12 +68,12 @@ Open the browser and go to `http://localhost:3000`. Ensure that everything is lo
 
 
 <div style="float:left; display: flex; justify-content: space-between;">
-  <img src="public/sc1.png" alt="Screenshot 1" style="width: 49%; border: 2px solid black;" />
-  <img src="public/sc2.png" alt="Screenshot 2" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/mock-interviewer-gpt/blob/main/public/mock-interviewer-gpt-template-landing-page.png?raw=true" alt="MockInterviewerGPT Template Landing Page screenshot" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/mock-interviewer-gpt/blob/main/public/mock-interviewer-gpt-template-interview-page.png?raw=true" alt="MockInterviewerGPT Template Interview Page screenshot" style="width: 49%; border: 2px solid black;" />
 </div>
 
 <div style="margin-top: 10px;">
-  <img src="public/sc3.png" alt="Screenshot 3" style="width: 100%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/mock-interviewer-gpt/blob/main/public/mock-interviewer-gpt-template-interview-page-2.png?raw=true" alt="MockInterviewerGPT Template Interview Page screenshot" style="width: 100%; border: 2px solid black;" />
 </div>
 
 
