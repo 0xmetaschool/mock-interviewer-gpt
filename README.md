@@ -20,18 +20,18 @@ Built with Next.js and leveraging Gemini AI, this open-source template is perfec
 ## Use Cases
 - Simulate job interview scenarios with AI-generated questions based on the specified role and experience level.
 - Practice and improve interview responses with instant AI-driven feedback. 
-- Suitable for preparing for technical, behavioral, and general interviews.
+- Suitable for preparing for technical, behavioural, and general interviews.
 
 ## Installation Steps
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/0xmetaschool/ai-mock-interview.git
+    git clone https://github.com/0xmetaschool/mock-interviewer-gpt.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd AI_Mock_Interviewer
+    cd mock-interviewer-gpt
     ```
 
 3. Install dependencies:
