@@ -1,51 +1,28 @@
 ## MockInterviewerGPT
+MockInterviewerGPT is a tool for students and professionals looking to prepare for interviews with ease. This AI-driven template simulates real interview scenarios, providing tailored questions and feedback to help users improve their responses.
 
-An AI-powered simulator that offers personalized online interview experiences. It takes voice input and provides instant feedback to help you improve.
-
-## Table of Contents
-
-- [Live Demo](#live-demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [How to run the project](#how-to-run-the-project)
-- [Screenshots](#screenshots)
-- [How to use the application](#how-to-use-the-application)
-- [Use Cases & Future Enhancements](#use-cases--future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-- [FAQ](#faq)
+Built with Next.js and leveraging Gemini AI, this open-source template is perfect for developers aiming to create advanced interview preparation tools. Whether you're applying for a new job or prepping for a big promotion, this template is designed to streamline your interview prep.
 
 ## Live Demo
-
-Live demo - [MockInterviewerGPT](https://mock-interviewer-gpt.vercel.app/)
+[https://mock-interviewer-gpt.vercel.app/](https://mock-interviewer-gpt.vercel.app/)
 
 ## Features
-- Secure access with social login or email/password authentication.
-- Generate AI-powered interview questions based on the provided interview details.
-- Converts user responses into text, enabling seamless interaction.
-- Provides AI-driven analysis and feedback based on users' interview responses.
+- Secure login with Gmail, facebook or email/password.
+- Experience realistic interview scenarios tailored to your field.
+- Each Interview includes AI-generated questions.
+- Receive AI-curated feedback on your responses.
 
 ## Technologies Used
-- Next.js
-- React
-- Drizzle ORM
-- Gemini AI
-- Clerk
+- Next.js and React for Frontend and Backend
+- Google Gemini API Key for AI-Powered Features
+- Clerk authentication for Authorization
 
+## Use Cases
+- Simulate job interview scenarios with AI-generated questions based on the specified role and experience level.
+- Practice and improve interview responses with instant AI-driven feedback. 
+- Suitable for preparing for technical, behavioral, and general interviews.
 
-## Getting Started
-
-### Prerequisites
-
-- Next.js
-- Clerk credentials
-- Gemini API Key
-
-### How to run the project
+## Installation Steps
 
 1. Clone the repository:
     ```bash
@@ -101,30 +78,11 @@ Open the browser and go to `http://localhost:3000`. Ensure that everything is lo
 
 
 ## How to use the application
-
 1. Sign in using Google, email, or Facebook account.
 2. Add a new interview and provide the job role, description, and years of experience.
 3. Respond to AI-generated questions and record them for the feedback.
 4. The AI will evaluate the answers and provide you with complete feedback.
 5. History of user interviews is saved on the dashboard and a User can re-attempt the existing interviews from the dashboard as well.
-
-## Use Cases & Future Enhancements
-Here's what you can currently do with MockInterviewerGPT and what’s planned for the future:
-
-**Current Use Cases:**
-- Simulate job interview scenarios with AI-generated questions based on the specified role and experience level.
-- Practice and improve interview responses with instant AI-driven feedback.
-- Track interview history and reattempt previous interviews to measure progress.
-- Suitable for preparing for technical, behavioral, and general interviews.
-
-**Coming Soon:**
-- Add a dashboard to track performance metrics and scoring for each interview attempt.
-- Integration of follow-up question prompts to simulate real interview dynamics.
-- Introduce question customization, allowing users to create and practice with their own questions.
-- Incorporate collaboration features to share interviews with peers or mentors for additional feedback.
-- Gamification elements like badges and achievements for progress tracking.
-- Access to community-generated interview question banks for diverse practice.
-
 
 ## Contributing
 
@@ -139,22 +97,6 @@ We love contributions! Here's how you can help make the AI-powered FinanceGuru e
 ## License
 This project is licensed under the MIT License - see the [LICENSE file](https://github.com/0xmetaschool/ai-mock-interview/blob/main/LICENSE) for details.
 
-## Acknowledgments
-
-- Google Gemini for providing the API
-- Clerk for authenticating the login process
-- Drizzle ORM for enabling efficient database setup and streamlining processes.
-
 ## Contact
 
 Please open an issue in the GitHub repository for any queries or support.
-
-## FAQ
-**Q: Do I need an API key to use MockInterviewerGPT?**
-A: Yes, you will need a Gemini API key to enable AI-powered features such as interview question generation and feedback analysis. You can obtain an API key by signing up on the Gemini platform.
-
-**Q: What job roles can MockInterviewerGPT simulate?**
-A: MockInterviewerGPT can simulate a variety of job roles and is customizable based on job descriptions and experience levels. Currently, it supports both technical and non-technical roles, with more specific industry support coming soon.
-
-**Q: Is my data secure?**
-A: Absolutely. We prioritize user data security. All information is encrypted and securely stored, and we do not share any personal data with third parties.
